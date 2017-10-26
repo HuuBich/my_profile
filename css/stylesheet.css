@@ -1,0 +1,53 @@
+.menu {
+    width: 1200px;
+    height: 78px;
+    background-color: black;
+    color: white;
+}
+
+.logo {
+    float: left;
+}
+
+.nav {
+    float: left;
+    margin-top: 30px;
+}
+
+.search {
+    float: right;
+}
+
+.logo img {
+    height: 58px;
+}
+
+.list-items .item {
+    float: left;
+    margin-right: 20px;
+}
+
+.list-items {
+    list-style: none;
+    text-transform: uppercase;
+    padding: 0px;
+    margin: 0px;
+}
+
+.list-items .item a {
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.canh-giua {
+    display: inline-block;
+}
+
+header {
+    text-align: center;
+}
